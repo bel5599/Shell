@@ -1,0 +1,33 @@
+Integrante: 
+Belsai
+Daniela Rodguez Cepero
+Grupo: C-211
+
+Funcionalidades:
+basic:      funcionalidades de la 1-8     (total 3.0 puntos)
+multi-pipe: funcionalidad 9  (1   punto)  (total 4.0 puntos)
+background: funcionalidad 10 (0.5 puntos) (total 4.5 puntos)
+spaces:     funcionalidad 11 (0.5 puntos) (total 5.0 puntos)
+history:    funcionalidad 12 (0.5 puntos) (total 5.5 puntos)
+ctrl+c:     funcionalidad 13 (0.5 puntos) (total 6.0 puntos)
+chain:      funcionalidad 14 (0.5 puntos) (total 6.5 puntos)
+if:         funcionalidad 15 (1   punto)  (total 7.5 puntos)
+multi-if:   funcionalidad 16 (0.5 puntos) (total  0  puntos) 
+help:       funcionalidad 17 (1   punto)  (total 8.5 puntos)
+variables:  funcionalidad 18 (1   punto)  (total 9.5 puntos)
+  
+
+Comandos built-in:
+cd:        cambia de directorios.
+exit:      termina el shell.
+jobs:      lista todos los procesos que estan corriendo en el background.
+fg:        envia el procesos hacia el foreground.
+help:      muestra esta ayuda.
+history:   muestra los ultimos 10 comandos.
+again:     permite ejecutar un comando del history.
+true:      solo retorna (exit status) cero.
+false:     solo retorna uno.
+if:        
+set:       el comando sin parametro imprime el nombre de cada variable y a continuación el valor ,sino le asigana a la variable el valor.
+get var:   imprime el valor de la variable , en caso de no recibir parámetros no hace nada.
+unset var: elimina una variable de la lista de variables del shell.
